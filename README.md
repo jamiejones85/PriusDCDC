@@ -1,4 +1,4 @@
-# prius3charger_buck
+# Prius DC DC
 
 Prius Gen 3 buck/boost converter control to buck/boost the main DC bus voltage to the input side of the buck/boost module to a voltage required to enable the DC DC converter without modification.
 
